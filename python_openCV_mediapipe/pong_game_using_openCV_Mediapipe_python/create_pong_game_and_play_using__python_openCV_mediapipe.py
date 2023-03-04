@@ -49,7 +49,7 @@ paddleHeight = 25
 paddleColor = (255, 255, 255)
 
 ## Initialize Ball For Pong Game
-ballRadius = 15
+ballRadius = 18
 ballColor = (0, 0, 255)
 ballXPos = int(width / 2)
 ballYPos = int(height / 2)
